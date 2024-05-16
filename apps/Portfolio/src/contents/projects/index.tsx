@@ -54,9 +54,8 @@ function ProjectsContents() {
                       src="https://www.youtube.com/embed/UAdk1kxEflY?si=58Pje8t-UzvScTm-"
                       title="YouTube video player"
                       frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
                       referrerPolicy="strict-origin-when-cross-origin"
-                      allow="fullscreen"
                     />
                   )}
                   {currentState === 'npm' && (
@@ -66,9 +65,8 @@ function ProjectsContents() {
                       src="https://www.youtube.com/embed/CkQ9xAglrSU?si=BWMEhIuBvodV6axV"
                       title="YouTube video player"
                       frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
                       referrerPolicy="strict-origin-when-cross-origin"
-                      allow="fullscreen"
                     />
                   )}
                 </AppWindow>
