@@ -188,7 +188,7 @@ function Footer() {
                     {
                       title: 'Projetos',
                       href: '/projects',
-                      label: 'Confira!',
+                      label: 'new',
                     },
                     {
                       title: 'Habilidades e ferramentas',
@@ -211,7 +211,7 @@ function Footer() {
                     {
                       title: 'Github',
                       href: '/404',
-                      label: 'Em construção',
+                      label: 'soon',
                     },
                   ]}
                 />
