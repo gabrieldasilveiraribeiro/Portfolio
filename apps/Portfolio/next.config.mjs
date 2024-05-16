@@ -12,8 +12,8 @@ const nextConfig = {
       permanent: false,
     },
     {
-      source: '/docs',
-      destination: '/docs/tailwindcss-accent',
+      source: '/404',
+      destination: '/404',
       permanent: false,
     },
   ],

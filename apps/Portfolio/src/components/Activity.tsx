@@ -147,7 +147,7 @@ function Activity({ onItemClick = () => {} }: ActivityProps) {
     return data.map((activity) => {
       const { createdAt, contentType, slug } = activity;
 
-      const link = contentType === 'POST' ? `/blog/${slug}` : `/docs/${slug}`;
+      const link = contentType === 'POST' ? `/404/${slug}` : `/404/${slug}`;
 
       return (
         <m.div key={createdAt} variants={animation}>
