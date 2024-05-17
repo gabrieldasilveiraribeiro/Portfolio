@@ -132,7 +132,7 @@ function FooterDescription() {
         </li>
         <li>
           <a
-            href="/404"
+            href="/pages/404"
             target="_blank"
             rel="noreferrer nofollow"
             className={clsx('flex h-9 w-9 items-center justify-center')}
@@ -210,7 +210,7 @@ function Footer() {
                     },
                     {
                       title: 'Github',
-                      href: '/404',
+                      href: '/pages/404',
                       label: 'soon',
                     },
                   ]}

@@ -11,11 +11,6 @@ const nextConfig = {
       destination: '/work/skills-and-tools',
       permanent: false,
     },
-    {
-      source: '/404',
-      destination: '/404',
-      permanent: false,
-    },
   ],
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
   reactStrictMode: true,
